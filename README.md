@@ -2,14 +2,14 @@
 
 
 ## Introduction
-FIE-Scraper is a Web Scraper designed to scrape the data of all International Fencing Federation (FIE) athletes from https://fie.org/athletes and store that data into a .csv file
+FIE-Scraper is a Web Scraper designed to scrape the data of all International Fencing Federation (FIE) athletes from the [FIE website](https://fie.org/athletes) and stores that data into a .csv file
 
 ## Description of Equipment
 ### Requirements
 * Python 3.8
 * Firefox version 60 or higher
 * FIE-Scraper file 
-  + Go to https://github.com/CMEdwards22/FIE-Scraper
+  + Go to the [FIE Scraper GitHub](https://github.com/CMEdwards22/FIE-Scraper)
   + Click Code > download ZIP
    ![downloadImage](https://user-images.githubusercontent.com/69873090/125885155-3006eb00-3413-46cf-a557-a9031765f018.png)
   + Extract FIE-Scraper-main.zip
