@@ -13,6 +13,9 @@ FIE-Scraper is a Web Scraper designed to scrape the data of all International Fe
   + Click Code > download ZIP
    ![downloadImage](https://user-images.githubusercontent.com/69873090/125885155-3006eb00-3413-46cf-a557-a9031765f018.png)
   + Extract FIE-Scraper-main.zip
+* A way to run a .py file
+  + PyCharm Community edition or PyCharm Professional editon are the recommeded IDEs for this program however any IDE will work
+  + You can download PyCharm [here](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ## Directions
 * Move into FIE-Scraper-main directory
