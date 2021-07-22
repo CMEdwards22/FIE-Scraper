@@ -1,10 +1,4 @@
 # FIE Scraper Documentation
-### [Introduction](#introduction)
-### [Description of Equipment](#description-of-equipment)
-### [Directions](#directions)
-### [FAQs](#faqs)
-### [Support](#support)
-### [Licensing](#licensing)
 
 
 ## Introduction
