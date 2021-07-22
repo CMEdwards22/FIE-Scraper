@@ -38,3 +38,6 @@ Yes, if there is currently a fencer_data.csv file in the directory then it will 
 
 ## Support
 If you need support then contact the developer at edwardscm6@appstate.edu
+
+## Licensing
+[MIT](https://choosealicense.com/licenses/mit/)
